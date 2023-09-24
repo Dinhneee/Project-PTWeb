@@ -1,0 +1,6 @@
+.contact-container {
+    background-image: url('../public/image/background_contact.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+}
